@@ -1,2 +1,2 @@
-# design_patterns
+# Design Patterns
 Implementation of all design patterns
